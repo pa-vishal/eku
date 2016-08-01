@@ -11,5 +11,6 @@
   "hubot-youtube",
   "hubot-darksky",
   "hubot-thesimpsons",
-  "hubot-reaction"
+  "hubot-reaction",
+  "hubot-random-dino"
 ]
