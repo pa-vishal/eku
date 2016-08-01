@@ -1,0 +1,30 @@
+{
+  "name": "ikoo",
+  "version": "0.0.0",
+  "private": true,
+  "author": "pa_vishal",
+  "description": "a robot for friends and family",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-darksky": "^1.0.2",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-google-images": "^0.2.6",
+    "hubot-google-translate": "^0.2.0",
+    "hubot-help": "^0.2.0",
+    "hubot-heroku-keepalive": "^1.0.2",
+    "hubot-jabbr": "^0.4.0",
+    "hubot-maps": "0.0.2",
+    "hubot-pugme": "^0.1.0",
+    "hubot-qr": "0.0.2",
+    "hubot-reaction": "0.0.6",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-rules": "^0.1.1",
+    "hubot-scripts": "^2.17.2",
+    "hubot-shipit": "^0.2.0",
+    "hubot-youtube": "^1.0.2",
+    "hubot-thesimpsons": "^1.1.4"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
